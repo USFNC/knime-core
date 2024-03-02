@@ -8,7 +8,7 @@
 
     <name>Jar fetcher for org.knime.core.tests</name>
     <description>
-       Running the maven goal &quot;package&quot; on this maven project will fetch all jars required for
+       Running the maven goal "package" on this maven project will fetch all jars required for
        org.knime.base.views.tests and put them into the lib/ directory.
     </description>
 
@@ -49,7 +49,7 @@
         <dependency>
             <groupId>com.networknt</groupId>
             <artifactId>json-schema-validator</artifactId>
-            <version>1.0.87</version>
+            <version>1.3.2</version>
         </dependency>
     </dependencies>
 
